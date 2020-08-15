@@ -8,6 +8,7 @@ pytest = "*"
 flake8 = "*"
 flake8-import-order = "*"
 mypy = "*"
+black = "*"
 
 [packages]
 
